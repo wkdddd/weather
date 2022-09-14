@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:scaleType="centerCrop"
-        android:src="@drawable/twotone_wb_sunny_deep_orange_600_48dp"
+        android:src="@drawable/baseline_air_light_blue_200_48dp"
         android:id="@+id/image_weather"/>
     <TextView
         android:text="@string/string_weather_sun"

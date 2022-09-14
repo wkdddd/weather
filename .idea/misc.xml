@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/baseline_air_light_blue_200_48dp.xml" value="0.229" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/baseline_grain_indigo_300_48dp.xml" value="0.229" />
         <entry key="..\:/aaa/weather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.229" />
         <entry key="..\:/aaa/weather/app/src/main/res/drawable/twotone_wb_sunny_deep_orange_600_48dp.xml" value="0.229" />
         <entry key="..\:/aaa/weather/app/src/main/res/layout/activity_main.xml" value="0.2625" />
