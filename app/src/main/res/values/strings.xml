@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">weather</string>
     <string name="string_weather_sun">晴天</string>
-    <string name="string_city_sh">上海</string>
+    <string name="string_city_sh">北京站（地铁站）</string>
+    <string name="titleback">Back</string>
+    <string name="titletext">天气预报</string>
+    <string name="titlechange">Change</string>
+
+
 </resources>

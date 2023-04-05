@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:gravity="center_vertical"
+    >
+
+    <Button
+        android:id="@+id/button_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:background="#00000000"
+        android:text="@string/titleback"
+        android:textAllCaps="false"
+        android:textColor="#82B1ff" />
+
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/titletext"
+        android:textColor="#82B1ff"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button_change"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:background="#00000000"
+        android:text="@string/titlechange"
+        android:textColor="#82B1ff"
+        android:textAllCaps="false" />
+
+
+</LinearLayout>

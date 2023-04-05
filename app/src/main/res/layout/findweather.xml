@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/actionBarLayout"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal">
+
+    <EditText
+        android:id="@+id/searchPlaceEdit"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_height="40dp"
+        android:layout_gravity="top"
+        android:layout_marginLeft="12dp"
+        android:hint="搜索" />
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/searchPlaceButton"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+
+        android:background="#00000000"
+        android:textSize="24dp"
+        android:text="搜索"/>
+
+
+</LinearLayout>

@@ -3,15 +3,42 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.229" />
         <entry key="..\:/aaa/weather/app/src/main/res/drawable/baseline_air_light_blue_200_48dp.xml" value="0.229" />
         <entry key="..\:/aaa/weather/app/src/main/res/drawable/baseline_grain_indigo_300_48dp.xml" value="0.229" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/cloud.xml" value="0.229" />
         <entry key="..\:/aaa/weather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.229" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/rain.xml" value="0.229" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/sun.xml" value="0.229" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/twotone_cloud_black_48dp.xml" value="0.229" />
         <entry key="..\:/aaa/weather/app/src/main/res/drawable/twotone_wb_sunny_deep_orange_600_48dp.xml" value="0.229" />
-        <entry key="..\:/aaa/weather/app/src/main/res/layout/activity_main.xml" value="0.2625" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/w1.xml" value="0.235" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/w2.xml" value="0.235" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/w3.xml" value="0.2125" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/w4.xml" value="0.235" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/weather_1.xml" value="0.229" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/weather_2.xml" value="0.229" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/weather_3.xml" value="0.229" />
+        <entry key="..\:/aaa/weather/app/src/main/res/drawable/wind.xml" value="0.229" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/activity_main.xml" value="0.26621847886098404" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/activity_main2.xml" value="0.21354166666666666" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/findweather.xml" value="0.26145833333333335" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/findweatherplace.xml" value="0.23489583333333333" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/forecast.xml" value="0.246875" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/forecast_item.xml" value="0.1" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/now.xml" value="0.26621847886098404" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/place_item.xml" value="0.2625" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/placeactivity1.xml" value="0.26621847886098404" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/placeactivity_main.xml" value="0.18704710144927536" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/title.xml" value="0.26145833333333335" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/weather.xml" value="0.1734375" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/weatheractivity2.xml" value="0.26621847886098404" />
+        <entry key="..\:/aaa/weather/app/src/main/res/layout/weatheractivity_main2.xml" value="0.2625" />
+        <entry key="..\:/aaa/weather/app/src/main/res/menu/main.xml" value="0.26145833333333335" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
